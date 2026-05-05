@@ -45,7 +45,7 @@ El grupo de investigación está abierto a todo tipo de colaboraciones entre inv
 
 <h4 align="left">👨‍🎓 Han pasado por el grupo</h4>
 
-Como estudiantes del Máster de Bioestadística de la UCM colaboraron con el grupo: Juan Carlos Pérez De La Lastra Rey, Elisa Medrano Buendía, Rafael Farias Varona y Julia Martins Guardia.
+Profesores: Javier Álvarez Liébana y como estudiantes del Máster de Bioestadística de la UCM colaboraron con el grupo: Juan Carlos Pérez De La Lastra Rey, Elisa Medrano Buendía, Rafael Farias Varona y Julia Martins Guardia.
 
 
 <h2 align="left">🌱 ¿En qué investigamos? ¿Cuáles son nuestras líneas de investigación actuales?</h2>
@@ -79,6 +79,7 @@ En nuestro grupo investigamos cómo transformar datos biomédicos complejos en c
   - [(2024) Clasificación supervisada de imágenes de resonancia magnética para la detección de la enfermedad de Alzheimer](https://hdl.handle.net/20.500.14352/106734). Estudiante: Elisa Caballero Testón. Directores o tutores (orden alfabético): Javier Álvarez Liébana y **Aida Calviño**. TFM del Máster de Bioestadística de la UCM.
   - (2024) Estudio de datos inmunológicos en cáncer mediante el uso de técnicas de análisis de datos composicionales. Estudiante: Olga Fresco Garrido. Directores o tutores (orden alfabético): Javier Álvarez Liébana y **Silvia Pineda**. TFM del Máster de Bioestadística de la UCM.
   - (2024) Clasificación de datos genéticos de alta dimensión en trasplantes de riñón. Estudiante: Júlia Guevara Figueras. Directores o tutores (orden alfabético): Javier Álvarez Liébana, **Aida Calviño** y **Silvia Pineda**. TFM del Máster de Bioestadística de la UCM.
+  - (2023) GERMLINE VARIANTS ASSOCIATED WITH THE PROGNOSIS OF PATIENTS WITH NON-MUSCLE INVASIVE BLADDER CANCER. Estudiante: Ane Moreno Oya. Directoras: **Aida Calviño** y **Silvia Pineda**
 
 
 <h2 align="left">🚀 Colaboraciones externas</h2>
