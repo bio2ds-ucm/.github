@@ -81,6 +81,15 @@ En nuestro grupo investigamos cómo transformar datos biomédicos complejos en c
   - (2024) Clasificación de datos genéticos de alta dimensión en trasplantes de riñón. Estudiante: Júlia Guevara Figueras. Directores o tutores (orden alfabético): Javier Álvarez Liébana, **Aida Calviño** y **Silvia Pineda**. TFM del Máster de Bioestadística de la UCM.
   - (2023) GERMLINE VARIANTS ASSOCIATED WITH THE PROGNOSIS OF PATIENTS WITH NON-MUSCLE INVASIVE BLADDER CANCER. Estudiante: Ane Moreno Oya. Directoras: **Aida Calviño** y **Silvia Pineda**
 
+## 📂 Repositorios destacados
+
+### [`internal-validation-omics`](https://github.com/bio2ds-ucm/internal-validation-omics)
+Estrategias de validación interna para modelos de predicción con datos transcriptómicos de alta dimensión.
+🔬 *Código asociado a un artículo en revisión en* Bioinformatics*.* · 👩‍💻 Melina Peressini
+
+### [`tfm-prefiltrado-hdlss`](https://github.com/bio2ds-ucm/tfm-prefiltrado-hdlss)
+Técnicas de prefiltrado de variables y aumento de datos en *machine learning* para escenarios de alta dimensión y muestra reducida (HDLSS).
+🎓 *Trabajo Fin de Máster — Máster en Bioestadística, UCM.* · 👩‍💻 Cristina Ordaz
 
 <h2 align="left">🚀 Colaboraciones externas</h2>
 
