@@ -81,7 +81,15 @@ In our group we research how to transform complex biomedical data into useful kn
   - (2024) Analysis of immunological data in cancer using compositional data analysis techniques. Student: Olga Fresco Garrido. Supervisors (alphabetical order): Javier Álvarez Liébana and **Silvia Pineda**. Master's thesis from the UCM Master's in Biostatistics.
   - (2024) Classification of high-dimensional genetic data in kidney transplants. Student: Júlia Guevara Figueras. Supervisors (alphabetical order): Javier Álvarez Liébana, **Aida Calviño** and **Silvia Pineda**. Master's thesis from the UCM Master's in Biostatistics.
 
+## 📂 Featured repositories
 
+### [`internal-validation-omics`](https://github.com/bio2ds-ucm/internal-validation-omics)
+Internal validation strategies for high-dimensional transcriptomic prediction models.
+🔬 *Code for a manuscript under review at* Bioinformatics*.* · 👩‍💻 Melina Peressini
+
+### [`tfm-prefiltrado-hdlss`](https://github.com/bio2ds-ucm/tfm-prefiltrado-hdlss)
+Variable pre-filtering and data augmentation techniques in *machine learning* for high-dimension, low-sample-size (HDLSS) settings.
+🎓 *Master's thesis — MSc in Biostatistics, Complutense University of Madrid (UCM).* · 👩‍💻 Cristina Ordaz
 <h2 align="left">🚀 External collaborations</h2>
 
 In addition to our work as researchers at our usual workplaces, some of the people who make up the group **collaborate as researchers and/or teachers with the following entities** in the fields of statistics, data science, bioinformatics, biostatistics, biomedicine, Machine Learning and software development:
