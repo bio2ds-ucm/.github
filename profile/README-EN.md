@@ -56,6 +56,7 @@ In our group we research how to transform complex biomedical data into useful kn
 <h2 align="left">🔭 What have we published?</h2>
 
 * **Featured articles (last 7 years)**:
+  - [(2025) Association of miR-126-3p, miR-1260b and miR-374a-5p with the incidence of heart failure in a population-based cohort: the Hortega Follow-Up Study](https://www.ejinme.com/article/S0953-6205(25)00115-3/fulltext). Maria Grau-Perez,..., **Silvia Pineda**, et al. 
   - [(2025) A New Prognostic Score Based on Cell-Mediated Immunity for Cytomegalovirus Infection After Transplantation](https://www.kireports.org/article/S2468-0249(25)00429-2/fulltext). Kervella, D.  Casanova-Ferrer, F.  Kotton, C.N.  Donadeu, L.  Kumar, D.  **Pineda, S.**, et al.
   - [(2024) Spatially Preserved Multi-Region Transcriptomic Subtyping and Biomarkers of Chemoimmunotherapy Outcome in Extensive-Stage Small Cell Lung Cancer](https://pubmed.ncbi.nlm.nih.gov/38630755/). **Melina Peressini Álvarez**, R. García-Campelo, B. Massuti, C. Martí, M. Cobo, V. Gutiérrez, M. Dómine, et al. and J. Zugazagoitia. Clin. Cancer Res. 30: 3036-3049.
   - [(2024) Double-weighted kNN: a simple and efficient variant with embedded feature selection](https://doi.org/10.1057/s41270-024-00302-5). **Almudena Moreno-Ribera** and **Aida Calviño**. J Market Anal.
