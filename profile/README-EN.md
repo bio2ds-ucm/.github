@@ -73,6 +73,7 @@ In our group we research how to transform complex biomedical data into useful kn
   - (in progress) "Prediction of early resistance to first-line osimertinib in EGFR-mutated non-small cell lung cancer patients using spatial transcriptomics" by **Melina Peressini Álvarez** (UCM - Hospital 12 de Octubre). Co-supervisor: **Silvia Pineda**.
   - (in progress) "Association Rules for predictive purposes applied to omics data" by **Almudena Moreno Ribera** (UCM). Co-supervisors: **Aida Calviño** and **Silvia Pineda**.
   - (in progress) "Filtering and Data Augmentation in high dimensional data" by **Pedro Contró** (UCM). Co-supervisors: **Silvia Pineda** and **Aida Calviño**.
+  - (in progress) «RuleFit for omics data integration» de **Mateo Paz** (UCM - Hospital Clinico San Calros). Co-directora: **Silvia Pineda**.
   - [(2022) "Urothelial Bladder Cancer (UBC) subtypes characterization"](https://repositorio.uam.es/handle/10486/705237) by Raquel Benítez Dorta (CNIO - Autonomous University of Madrid). Co-supervisor: **Silvia Pineda**.
 
 * **Master's theses**:
