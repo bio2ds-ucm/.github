@@ -55,6 +55,7 @@ En nuestro grupo investigamos cómo transformar datos biomédicos complejos en c
 <h2 align="left">🔭 ¿Qué hemos publicado?</h2>
 
 * **Artículos destacados (últimos 7 años)**:
+  - [(2025) Association of miR-126-3p, miR-1260b and miR-374a-5p with the incidence of heart failure in a population-based cohort: the Hortega Follow-Up Study] (https://www.ejinme.com/article/S0953-6205(25)00115-3/fulltext). Maria Grau-Perez,..., **Silvia Pineda**, et al. 
   - [(2025) A New Prognostic Score Based on Cell-Mediated Immunity for Cytomegalovirus Infection After Transplantation](https://www.kireports.org/article/S2468-0249(25)00429-2/fulltext). Kervella,D.  Casanova-Ferrer,F.  Kotton,C.N.  Donadeu,L.  Kumar,D.  **Pineda,S**, et al. 
   - [(2024) Spatially Preserved Multi-Region Transcriptomic Subtyping and Biomarkers of Chemoimmunotherapy Outcome in Extensive-Stage Small Cell Lung Cancer](https://pubmed.ncbi.nlm.nih.gov/38630755/). **Melina Peressini Álvarez**, R. García-Campelo, B. Massuti, C. Martí, M. Cobo, V. Gutiérrez, M. Dómine, otros and J. Zugazagoitia. Clin. Cancer Res. 30: 3036-3049.
   - [(2024) Double-weighted kNN: a simple and efficient variant with embedded feature selection](https://doi.org/10.1057/s41270-024-00302-5). **Almudena Moreno-Ribera** and **Aida Calviño**. J Market Anal.
@@ -71,11 +72,17 @@ En nuestro grupo investigamos cómo transformar datos biomédicos complejos en c
   - (en proceso) «Predicción de la resistencia temprana a osimertinib en primera línea en pacientes con cáncer de pulmón no microcítico EGFR mutado empleando transcriptómica espacial» de **Melina Peressini Álvarez** (UCM - Hospital 12 de Octubre). Co-directora: **Silvia Pineda**
   - (en proceso) «Association Rules for predictive purposes applied to omics data» de **Almudena Moreno Ribera** (UCM). Co-directoras: **Aida Calviño** y **Silvia Pineda**.
   - (en prcoseo) «Filtering and Data Augmentation in high dimensional data» de **Pedro Contró** (UCM). Co-directoras: **Silvia Pineda** y **Aida Calviño**.
+  - (en prcoseo) «RuleFit for omics data integration» de **Mateo Paz** (UCM - Hospital Clinico San Calros). Co-directora: **Silvia Pineda**.
   - [(2022) «Urothelial Bladder Cancer (UBC) subtypes characterization»](https://repositorio.uam.es/handle/10486/705237) de Raquel Benítez Dorta (CNIO - Universidad Autónoma de Madrid). Co-directora: **Silvia Pineda**
 
-* **Trabajos Fin de Máster**:
+* **Trabajos Fin de Máster** (más destacados):
 * 
-  - [(2024) Association Rules for predictive purposes applied to omics data](https://hdl.handle.net/20.500.14352/109010). Estudiante: Almudena Moreno Ribera. Directoras o tutoras (orden alfabético): **Aida Calviño Martínez** y **Silvia Pineda**. TFM del Máster de Bioestadística de la UCM.
+- [(2026) Predicción del riesgo de eventos no-sida en personas con VIH usando métodos de machine learning. Estudiante: María Botey. Directoras o tutoras (orden alfabético): **Silvia Pineda** y **Marta Rava**. TFM del Máster de Bioestadística de la UCM.
+ - [(2026) Estudio comparativo de métodos de machine learning para la identificación del tipo celular mediante single-cell RNAseq con resolución espacial (https://hdl.handle.net/20.500.14352/137612). Estudiante: Bárbara Bernal Gómez. Directoras o tutoras (orden alfabético): **Melina Peressini**, **Silvia Pineda** y **Adrián Portillo**. TFM del Máster de Bioestadística de la UCM.
+ - [(2026) Estudio de técnicas de pre-filtrado en modelos de Machine Learning para manejar datos de alta dimensionalidad (https://hdl.handle.net/20.500.14352/137490). Estudiante: Cristina Ordaz Solera. Directoras o tutoras (orden alfabético): **Aida Calviño**, **Pedro Contró** y **Silvia Pineda**. TFM del Máster de Bioestadística de la UCM.
+ - [(2025) Evaluación de técnicas de validación interna de modelos predictivos en datos genómicos (alta dimensionalidad) (https://hdl.handle.net/20.500.14352/122792). Estudiante: Elisa Medrano Buendía. Directoras o tutoras (orden alfabético): **Melina Peressini** y **Silvia Pineda**. TFM del Máster de Bioestadística de la UCM.
+ - [(2025) Estudio de predicción del riesgo de mortalidad en personas con VIH utilizando métodos de Machine Learning (https://hdl.handle.net/20.500.14352/122782). Estudiante: Rafael Farias Varona. Directoras o tutoras (orden alfabético): **Aida Calviño** y **Silvia Pineda** y **Marta Rava**. TFM del Máster de Bioestadística de la UCM.
+  - [(2024) Association Rules for predictive purposes applied to omics data](https://hdl.handle.net/20.500.14352/109010). Estudiante: Almudena Moreno Ribera. Directoras o tutoras (orden alfabético): **Aida Calviño** y **Silvia Pineda**. TFM del Máster de Bioestadística de la UCM.
   - [(2024) Clasificación supervisada de imágenes de resonancia magnética para la detección de la enfermedad de Alzheimer](https://hdl.handle.net/20.500.14352/106734). Estudiante: Elisa Caballero Testón. Directores o tutores (orden alfabético): Javier Álvarez Liébana y **Aida Calviño**. TFM del Máster de Bioestadística de la UCM.
   - (2024) Estudio de datos inmunológicos en cáncer mediante el uso de técnicas de análisis de datos composicionales. Estudiante: Olga Fresco Garrido. Directores o tutores (orden alfabético): Javier Álvarez Liébana y **Silvia Pineda**. TFM del Máster de Bioestadística de la UCM.
   - (2024) Clasificación de datos genéticos de alta dimensión en trasplantes de riñón. Estudiante: Júlia Guevara Figueras. Directores o tutores (orden alfabético): Javier Álvarez Liébana, **Aida Calviño** y **Silvia Pineda**. TFM del Máster de Bioestadística de la UCM.
@@ -115,7 +122,7 @@ Además de nuestro trabajo como investigadores/as/es en nuestros centros habitua
 - [**Servicio de Oncología Médica**](https://www.comunidad.madrid/hospital/clinicosancarlos/profesionales/servicios-medicos/oncologia-medica) del **Hospital Clínico San Carlos** (Madrid).
 - [**Unidad de investigación neurovascular**](https://www.ucm.es/iuin) del **Instituto Universitario de Investigación en Neuroquímica** de la UCM.
 - [**Máster en Bioinformática y Ciencia de datos en Medicina personalizada de precisión y salud**](https://masterbioinformatica.com/) (título propio de la **Escuela Nacional de Sanidad del Instituto de Salud Carlos III** de Madrid). Colaboran actualmente como docentes Almudena Moreno Ribera, Melina Peressini Álvarez y Silvia Pineda San Juan.
-- [**Análisis de Big Data con R**](https://www.madrid.es/portal/site/munimadrid) (plan de formación del **Ayuntamiento de Madrid**). Colabora actualmente como docente Aida Calviño.
+- [**Modelos estadísticos y analítica aplicada al Big Data**](https://www.madrid.es/portal/site/munimadrid) (plan de formación del **Ayuntamiento de Madrid**). Colabora actualmente como docente Aida Calviño.
 
 <h2 align="left">💬 Feedback</h2>
 
