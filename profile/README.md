@@ -45,7 +45,7 @@ El grupo de investigación está abierto a todo tipo de colaboraciones entre inv
 
 <h4 align="left">👨‍🎓 Han pasado por el grupo</h4>
 
-Profesores: Javier Álvarez Liébana y como estudiantes del Máster de Bioestadística de la UCM colaboraron con el grupo: Juan Carlos Pérez De La Lastra Rey, Elisa Medrano Buendía, Rafael Farias Varona y Julia Martins Guardia.
+Profesores: Javier Álvarez Liébana y como estudiantes del Máster de Bioestadística de la UCM colaboraron con el grupo: Cristina Ordaz, Bárbara Bernal, María Botey, Juan Carlos Pérez De La Lastra Rey, Elisa Medrano Buendía, Rafael Farias Varona y Julia Martins Guardia.
 
 
 <h2 align="left">🌱 ¿En qué investigamos? ¿Cuáles son nuestras líneas de investigación actuales?</h2>
