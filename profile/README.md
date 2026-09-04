@@ -91,7 +91,7 @@ En nuestro grupo investigamos cómo transformar datos biomédicos complejos en c
 
 ### [`internal-validation-omics`](https://github.com/bio2ds-ucm/internal-validation-omics)
 Estrategias de validación interna para modelos de predicción con datos transcriptómicos de alta dimensión.
-🔬 *Código asociado a un artículo en revisión en* Bioinformatics*.* · 👩‍💻 Melina Peressini
+🔬 *Código asociado a un artículo en revisión en* *Scientific Reports* · 👩‍💻 Melina Peressini
 
 ### [`tfm-prefiltrado-hdlss`](https://github.com/bio2ds-ucm/tfm-prefiltrado-hdlss)
 Técnicas de prefiltrado de variables y aumento de datos en *machine learning* para escenarios de alta dimensión y muestra reducida (HDLSS).
